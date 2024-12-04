@@ -86,4 +86,12 @@ The code produces the following outputs:
 
 
 <h1>Conclusion</h1>
-The first assignment introduced me to image filtering techniques and how different filters can be combined to create hybrid images. The second assignment provided valuable insights into manually implementing the Harris Corner Detection algorithm, a fundamental technique in computer vision. By calculating gradients, smoothing data, and applying mathematical operations, the algorithm effectively detects corners in images. Understanding this process enhances knowledge of feature detection and its role in tasks like object tracking and image recognition. The implementation is a solid foundation for further exploration of advanced computer vision techniques.
+The first assignment introduced me to image filtering techniques and how different filters can be combined to create hybrid images. The second assignment is the implementation of the Harris Corner Detection algorithm demonstrates the process of identifying corners in images, enhancing understanding of key computer vision concepts like gradients and feature detection. It serves as a solid foundation for exploring more advanced techniques.
+
+
+
+
+
+
+
+
